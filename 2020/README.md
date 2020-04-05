@@ -13,4 +13,4 @@ Dodaj swoje pomysły na nowe pytania, a także powiedz nam, które pytania z 201
 ____________________
 Stan na dzień: 2020-4-5
 
-Od @todogroup tłumaczenie od @mbiesiad
+Od @[todogroup](https://github.com/todogroup) tłumaczenie od @[mbiesiad](mbiesiad)
