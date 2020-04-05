@@ -1,11 +1,14 @@
-# Open Source Programs Survey
+# Ankieta programów Open Source
 
-The TODO Group is proud to have run the first open source programs survey in the industry. Formal open source programs are quickly becoming an emerging best practice for all organizations. The TODO Group is committed to running this survey on an annual basis moving forward and sharing the results with the wider community
+Grupa TODO z dumą przeprowadziła pierwszą w branży ankietę dotyczącą programów typu open source. Formalne programy open source szybko stają się najlepszą praktyką dla wszystkich organizacji. Grupa TODO zobowiązuje się do przeprowadzania tego badania corocznie, posuwając się naprzód i dzieląc się wynikami z szerszą społecznością
 
-* [2018 Results](https://github.com/todogroup/survey/tree/master/2018)
-* [2019 Results](https://github.com/todogroup/survey/tree/master/2019)
-* [2020 Planning](https://github.com/todogroup/survey/blob/master/2020/README.md)
+* [2018 Wyniki](https://github.com/mbiesiad/survey/tree/master/2018)
+* [2019 Wyniki](https://github.com/mbiesiad/survey/tree/master/2019)
+* [2020 Planowanie](https://github.com/mbiesiad/survey/blob/master/2020/README.md)
 
-## License
+## Licencja
 
-The survey results are licensed under [CC-BY-SA v4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+Wyniki ankiety są licencjonowane na podstawie [CC-BY-SA v4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+________________________
+Stworzone przez @todogroup polska wersja od @mbiesiad
