@@ -11,4 +11,4 @@ Grupa TODO z dumą przeprowadziła pierwszą w branży ankietę dotyczącą prog
 Wyniki ankiety są licencjonowane na podstawie [CC-BY-SA v4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ________________________
-Stworzone przez @todogroup polska wersja od @mbiesiad
+Stworzone przez @[todogroup](https://github.com/todogroup) polska wersja od @[mbiesiad](https://github.com/mbiesiad)
