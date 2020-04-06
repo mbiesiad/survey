@@ -122,7 +122,7 @@
 
 * Zgodność z wymogami inżynierskimi
 
-* Relacje programistów, rzecznictwo i ewangeliści
+* Developer relations, rzecznictwo i ewangeliści
 
 * Deweloper lub inżynier Open Source (raportowanie do biura open source)
 
@@ -140,333 +140,335 @@
 
 * 5-10 lat
 
-* > 10 lat
+* powyżej 10 lat
 
 * Nie wiem
 
-11. What are the areas where your company has most benefited from the open source program? (Check all that apply)
+11. Jakie są obszary, w których Twoja firma najbardziej skorzystała z programu open source? (Zaznacz wszystkie, które dotyczą)
 
-* Increased developer recruitment and retention
+* Zwiększona rekrutacja i utrzymanie programistów
 
-* Increased speed and agility in development cycle
+* Zwiększona szybkość i zwinność w cyklu rozwojowym
 
-* Better license compliance
+* Lepsza zgodność licencji
 
-* Lower licensing fees
+* Niższe opłaty licencyjne
 
-* Lower support costs
+* Niższe koszty wsparcia
 
-* More influence in open source communities
+* Większy wpływ w społecznościach typu open source
 
-* Increased contributions to in-house open source projects from external or third-party contributors
+* Zwiększony wkład w wewnętrzne projekty open source od zewnętrznych lub zewnętrznych współpracowników
 
-* More awareness of open source use and commercial dependencies
+* Większa świadomość wykorzystania otwartego oprogramowania i zależności komercyjnych
 
-* Increased market adoption of open source projects
+* Zwiększona adopcja rynkowa projektów open source
 
-* Increased participation in external open source projects
+* Zwiększony udział w zewnętrznych projektach open source
 
-* Faster time to market with new products
+* Szybszy czas wprowadzania na rynek nowych produktów
 
-* Increased innovation
+* Zwiększona innowacja
 
-* Culture change toward faster digital transformation, openness and agility
+* Zmiana kultury w kierunku szybszej transformacji cyfrowej, otwartości i sprawności
 
-* Better security testing and vulnerability management
+* Lepsze testy bezpieczeństwa i zarządzanie podatnością
 
-* Other (please specify)
+* Inne (proszę określić)
 
-12. What are the ways your open source program quantifies success? (Check all that apply)
+12. W jaki sposób Twój program open source określa sukces? (Zaznacz wszystkie, które dotyczą)
 
-* Fewer license violations
+* Mniej naruszeń licencji
 
-* Faster compliance process
+* Szybszy proces zgodności
 
-* Volume of upstream code contributions
+* Wielkość wkładu kodu źródłowego
 
-* Number of open source projects initiated
+* Liczba zainicjowanych projektów open source
 
-* Number of contributors
+* Liczba autorów
 
-* Market adoption or use of projects
+* Przyjęcie na rynek lub wykorzystanie projektów
 
-* Developer velocity, efficiency, and/or productivity
+* Prędkość programisty, wydajność i/lub wydajność
 
-* Developer hiring and onboarding
+* Zatrudnianie i wdrażanie programistów
 
-* Reach in open source communities
+* Zasięg w społecznościach typu open source
 
-* Open source culture within the company
+* Kultura open source w firmie
 
-* Time to market with new products
+* Czas na wprowadzenie na rynek nowych produktów
 
-* Other (please specify)
+* Inne (proszę określić)
 
-13. What are the top three challenges your open source program faces? (Choose three) *
+13. Jakie są trzy najważniejsze wyzwania, przed którymi stoi program typu open source? (Wybierz trzy) *
 
-* Talent: finding and recruiting open source developers
+* Talent: znajdowanie i rekrutowanie programistów open source
 
-* Ability to influence open source projects
+* Możliwość wpływania na projekty open source
 
-* Executive awareness and support
+* Świadomość i wsparcie kierownictwa
 
-* Insufficient budget; program costs
+* Niewystarczający budżet; koszty programu
 
-* Internal awareness of the program
+* Wewnętrzna świadomość programu
 
-* External awareness (marketing and communcations)
+* Świadomość zewnętrzna (marketing i komunikacja)
 
-* License compliance overhead
+* Koszty ogólne związane z przestrzeganiem licencji
 
-* Tracking metrics and performance
+* Śledzenie wskaźników i wydajności
 
-* Tool selection and adoption
+* Wybór i przyjęcie narzędzia
 
-14. On a scale of 1-5, how business-critical is your open source program to the success of your engineering or product teams? (1= extremely critical, 5 = not at all critical)
+14. W jakim stopniu krytyczny z punktu widzenia biznesu jest program open source dla sukcesu zespołów inżynieryjnych lub produktowych? (1 = skrajnie krytyczny, 5 = wcale nie krytyczny)
 
-* 1 – Extremely critical
+* 1 – Niezwykle krytyczny
 
-* 2 – Very critical
+* 2 - Bardzo krytyczny
 
-* 3 – Somewhat critical
+* 3 - Trochę krytyczny
 
-* 4 – Not so critical
+* 4 - Nie tak krytyczny
 
-* 5 – Not at all critical
+* 5 - Wcale nie krytyczny
 
-15. Has the open source program had a specific impact on your company's DevOps practices or software architecture?
+15. Czy program open source miał konkretny wpływ na praktyki DevOps lub architekturę oprogramowania Twojej firmy?
 
-* Yes
+* Tak
 
-* No
+* Nie
 
-* Don't know
+* Nie wiem
 
-16. When does your company plan to start a program?
+16. Kiedy Twoja firma planuje uruchomić program?
 
-* Next 6 months
+* Najbliższe 6 miesięcy
 
-* 6-12 months
+* 6-12 miesięcy
 
-* 13-24 months
+* 13-24 miesięcy
 
-* 24+ months
+* 24+ miesiące
 
-17. How will the program or initiative be structured? *
+17. Jaka będzie struktura programu lub inicjatywy? *
 
-* Formal: dedicated person-hours, reporting structure and/or job titles
+* Formalne: dedykowane osobogodziny, struktura raportowania i/lub stanowiska pracy
 
-* Informal: working groups, mailing lists and/or channels (e.g., Slack) managed by job roles not formally defined as "open source"
+* Nieformalne: grupy robocze, listy mailingowe i/lub kanały (np. Slack) zarządzane przez role zadań nieokreślone formalnie jako "open source"
 
-18. Where will the open source program or initiative be located within the organization? If the effort is informal, answer based on who the primary organizers will report to.
+18. Gdzie w organizacji będzie znajdować się program lub inicjatywa open source? Jeśli wysiłek jest nieformalny, odpowiedz na podstawie tego, do kogo zgłoszą się główni organizatorzy.
 
-* Legal
+* Dział prawny
 
-* Software Engineering and Development
+* Inżynieria i rozwój oprogramowania
 
 * IT
 
-* Office of the CTO
+* Biuro CTO
 
-* Developer Relations, Marketing or Communications
+* Developer Relations, marketing lub komunikacja
 
-* Don't know
+* Nie wiem
 
-* Other (please specify)
+* Inne (proszę określić)
 
-19. What will be your role in the open source program?
+19. Jaka będzie Twoja rola w programie open source?
 
-* Executive leadership or oversight (program manager reports to me)
+* Kierownictwo lub nadzór wykonawczy (kierownik programu zgłasza się do mnie)
 
-* Program manager
+* Kierownik programu
 
-* Legal compliance
+* Zgodność z prawem
 
-* Engineering compliance
+* Zgodność z wymogami inżynierskimi
 
-* Developer relations, advocacy, and evangelists
+* Developer relations, rzecznictwo i ewangeliści
 
-* Open source developer or engineer (reporting to the open source office)
+* Deweloper lub inżynier Open Source (raportowanie do biura open source)
 
-* Committee member
+* Członek Komisji
 
-* No formal role
+* Brak formalnej roli
 
-20. What does your company aim to accomplish by starting an open source program? (Check all that apply)
+20. Co Twoja firma zamierza osiągnąć, uruchamiając program typu open source? (Zaznacz wszystkie, które dotyczą)
 
-* Increased developer recruitment and retention
+* Zwiększona rekrutacja i utrzymanie programistów
 
-* Increased speed and agility in development cycle
+* Zwiększona szybkość i zwinność w cyklu rozwojowym
 
-* Better license compliance
+* Lepsza zgodność licencji
 
-* Lower licensing fees
+* Niższe opłaty licencyjne
 
-* Lower support costs
+* Niższe koszty wsparcia
 
-* More influence in open source communities
+* Większy wpływ w społecznościach typu open source
 
-* Increased contributions to in-house open source projects from external or third-party contributors
+* Zwiększony wkład w wewnętrzne projekty open source od zewnętrznych lub zewnętrznych współpracowników
 
-* More awareness of open source use and commercial dependencies
+* Większa świadomość wykorzystania otwartego oprogramowania i zależności komercyjnych
 
-* Increased market adoption of open source projects
+* Zwiększona adopcja rynkowa projektów open source
 
-* Increased participation in external open source projects
+* Zwiększony udział w zewnętrznych projektach open source
 
-* Faster time to market with new products
+* Szybszy czas wprowadzania na rynek nowych produktów
 
-* Increased innovation
+* Zwiększona innowacja
 
-* Culture change toward faster digital transformation, openness and agility
+* Zmiana kultury w kierunku szybszej transformacji cyfrowej, otwartości i sprawności
 
-* Better security testing and vulnerability management
+* Lepsze testy bezpieczeństwa i zarządzanie podatnością
 
-* Other (please specify)
+* Inne (proszę określić)
 
-21. What are top three ways your open source program will quantify success? (Choose three) Fewer license violations
+21. Jakie są trzy główne sposoby, w jakie Twój program open source będzie oceniać sukces? (Wybierz trzy)
 
-* Faster compliance process
+* Mniej naruszeń licencji
 
-* Volume of upstream code contributions
+* Szybszy proces zgodności
 
-* Number of open source projects initiated
+* Wielkość wkładu kodu źródłowego
 
-* Number of contributors
+* Liczba zainicjowanych projektów open source
 
-* Market adoption or use of projects
+* Liczba autorów
 
-* Developer velocity, efficiency, and/or productivity
+* Przyjęcie na rynek lub wykorzystanie projektów
 
-* Developer hiring and onboarding
+* Prędkość tworzenia programisty, wydajność i/lub produktywność
 
-* Reach in open source communities
+* Zatrudnianie i wdrażanie programistów
 
-* Open source culture within the company
+* Zasięg w społecznościach typu open source
 
-* Time to market with new products
+* Kultura open source w firmie
 
-* Other (please specify)
+* Czas na wprowadzenie na rynek nowych produktów
 
-22. What have been the top three biggest challenges in establishing an open source program? (Choose three)
+* Inne (proszę określić)
 
-* Strategy: planning or knowing how to approach it
+22. Jakie były trzy największe wyzwania przy tworzeniu programu typu open source? (Wybierz trzy)
 
-* Finding an open source program manager
+* Strategia: planowanie lub umiejętność podejścia
 
-* Finding legal staff with open source expertise
+* Znalezienie menedżera programów typu open source
 
-* Setting an open source policy
+* Znalezienie personelu prawnego posiadającego wiedzę specjalistyczną typu open source
 
-* Getting executive support and buy-in
+* Ustawienie zasad open source
 
-* Getting engineering support and buy-in
+* Uzyskiwanie wsparcia kadry kierowniczej i wpisowego
 
-* Setting a budget and estimating program costs
+* Uzyskiwanie wsparcia technicznego i wpisowego
 
-* Assessing or quantifying existing open source use and contribution
+* Ustalanie budżetu i szacowanie kosztów programu
 
-* Resources required to perform license compliance
+* Ocena lub kwantyfikacja istniejącego wykorzystania i wkładu open source
 
-* Finding commercial dependencies
+* Zasoby wymagane do wykonania zgodności z licencją
 
-* Tool selection
+* Znalezienie zależności handlowych
 
-* Other (please specify)
+* Wybór narzędzia
 
-23. Why doesn’t your company have an open source program? (Check all that apply)
+* Inne (proszę określić)
 
-* Used to have one, but ended it
+23. Dlaczego Twoja firma nie ma programu typu open source? (Zaznacz wszystkie, które dotyczą)
 
-* Have never heard of an open source program
+* Kiedyś taki miała, ale go zakończyła
 
-* Haven’t considered it
+* Nigdy nie słyszałem o programie typu open source
 
-* Don’t use or participate in open source
+* Nie zastanawiałem się
 
-* Organization is too small to need one
+* Nie używa ani nie uczestniczy w open source
 
-* Organization’s open source use and participation is too small to need one
+* Organizacja jest zbyt mała, aby jej potrzebować
 
-* Don’t see the business value
+* Korzystanie z oprogramowania typu open source i uczestnictwo w nim jest zbyt małe, aby go potrzebować
 
-* Don’t want to regulate or standardize open source practices
+* Nie widzę wartości biznesowej
 
-* Time or resource constraints
+* Nie chcę regulować ani standaryzować praktyk typu open source
 
-* Want one but can’t justify it
+* Ograniczenia czasu lub zasobów
 
-* Other (please specify)
+* Chcesz, ale nie możesz tego uzasadnić
 
-24. Would your company benefit from an open source program?
+* Inne (proszę określić)
 
-* Yes
+24. Czy Twoja firma skorzystałaby z programu typu open source?
 
-* No
+* Tak
 
-25. What are the top three ways your company would benefit from an open source program? (Choose three)
+* Nie
 
-* Increased developer recruitment and retention
+25. Jakie są trzy najlepsze sposoby, w jakie Twoja firma mogłaby skorzystać z programu typu open source? (Wybierz trzy)
 
-* Increased speed and agility in development cycle
+* Zwiększona rekrutacja i utrzymanie programistów
 
-* Better license compliance
+* Zwiększona szybkość i zwinność w cyklu rozwojowym
 
-* Lower licensing fees
+* Lepsza zgodność licencji
 
-* Lower support costs
+* Niższe opłaty licencyjne
 
-* More influence in open source communities
+* Niższe koszty wsparcia
 
-* Increased contributions to in-house open source projects from external or third-party contributors
+* Większy wpływ w społecznościach typu open source
 
-* More awareness of open source use and commercial dependencies
+* Zwiększony wkład w wewnętrzne projekty open source od zewnętrznych lub zewnętrznych współpracowników
 
-* Increased market adoption of open source projects
+* Większa świadomość wykorzystania otwartego oprogramowania i zależności komercyjnych
 
-* Increased participation in external open source projects
+* Zwiększona adopcja rynkowa projektów open source
 
-* Faster time to market with new products
+* Zwiększony udział w zewnętrznych projektach open source
 
-* Increased innovation
+* Szybszy czas wprowadzania na rynek nowych produktów
 
-* Culture change toward faster digital transformation, openness and agility
+* Zwiększona innowacja
 
-* Better security testing and vulnerability management
+* Zmiana kultury w kierunku szybszej transformacji cyfrowej, otwartości i sprawności
 
-* Other (please specify)
+* Lepsze testy bezpieczeństwa i zarządzanie podatnością
 
-26. How would you approach creating an open source program within your organization?
+* Inne (proszę określić)
 
-27. Why not?
+26. Jak podchodziłbyś do tworzenia programu typu open source w swojej organizacji?
 
-* Used to have one, but ended it
+27. Dlaczego nie?
 
-* Have never heard of an open source program
+* Kiedyś miała jeden, ale go zakończyła
 
-* Haven’t considered it
+* Nigdy nie słyszałem o programie typu open source
 
-* Don’t use or participate in open source
+* Nie zastanawiałem się
 
-* Organization is too small to need one
+* Nie używa ani nie uczestniczy w open source
 
-* Organization's open source use and participation is too small to need one
+* Organizacja jest zbyt mała, aby jej potrzebować
 
-* Don’t see the business value
+* Wykorzystanie open source organizacji i uczestnictwo jest zbyt małe, aby go potrzebować
 
-* Don’t want to regulate or standardize open source practices
+* Nie widzę wartości biznesowej
 
-* I don’t know
+* Nie chcę regulować ani standaryzować praktyk typu open source
 
-* Other (please specify)
+* Nie wiem
 
-28. If yes, please provide one or two specific examples.
+* Inne (proszę określić)
 
-* Example 1
+28. Jeśli tak, proszę podać jeden lub dwa konkretne przykłady.
 
-* Example 2
+* Przykład 1
 
-29. How many open source projects does your company maintain?
+* Przykład 2
+
+29. Ile projektów typu open source utrzymuje Twoja firma?
 
 * 0
 
@@ -480,95 +482,95 @@
 
 * 1,000+
 
-30. How often does your average application development team release code into production?
+30. Jak często przeciętny zespół programistów wdraża kod produkcyjny?
 
-* Hourly
+* Co godzinę
 
-* Daily
+* Codziennie
 
-* Weekly
+* Tygodniowo
 
-* Monthly
+* Miesięcznie
 
-* Less than once a month
+* Mniej niż raz w miesiącu
 
-* Don’t know
+* Nie wiem
 
-31. What is the average time between major product releases?
+31. Jaki jest średni czas między głównymi wersjami produktu?
 
-* < 1 month
+* < 1 miesiąc
 
-* 1-2 months
+* 1-2 miesiące
 
-* 3-6 months
+* 3-6 miesięcy
 
-* 6-12 months
+* 6-12 miesięcy
 
-* 12+ months
+* 12+ miesięcy
 
-32. What kinds of tools does your company use to manage open source code repositories? (Check all that apply)
+32. Jakich narzędzi używa Twoja firma do zarządzania repozytoriami kodu open source? (Zaznacz wszystkie, które dotyczą)
 
-* GitHub paid version
+* Wersja płatna GitHub
 
-* Other vendor’s paid version (e.g., GitLab, Bitbucket)
+* Płatna wersja innego dostawcy (np. GitLab, Bitbucket)
 
-* Free version of vendor solution (e.g., GitHub, GitLab)
+* Darmowa wersja rozwiązania dostawcy (np. GitHub, GitLab)
 
-* Homegrown solution
+* Rozwiązanie domowe
 
-* Other (please specify)
+* Inne (proszę określić)
 
-33. Which category most closely defines your role?
+33. Która kategoria najlepiej określa twoją rolę?
 
-* Developer or Software Engineer
+* Deweloper lub inżynier oprogramowania
 
-* Other IT
+* Inne IT
 
-* Community Manager or Developer Advocate
+* Community Manager lub Developer Advocate
 
-* IT management, including CIO, CISO, CTO
+* Zarządzanie IT, w tym CIO, CISO, CTO
 
-* C-level (non-technology) management
+* C-level (nietechniczne) zarządzanie
 
 * Marketing / PR
 
-* Other
+* Inne
 
-34. What industry vertical is your company in?
+34. W jakiej branży jest Twoja firma?
 
-* Defense
+* Obrona
 
-* Education
+* Edukacja
 
-* Financial Services
+* Usługi finansowe
 
-* Government
+* Rząd
 
-* Healthcare
+* Opieka zdrowotna
 
-* Insurance
+* Ubezpieczenie
 
-* Manufacturing and raw materials
+* Produkcja i surowce
 
-* Retail
+* Sprzedaż
 
-* Technology (software or IT)
+* Technologia (oprogramowanie lub IT)
 
-* Telecom, communications, or media
+* Telekomunikacja, komunikacja lub media
 
-* Transportation and automotive
+* Transport i motoryzacja
 
-* Utilities
+* Narzędzia
 
-* Other
+* Inne
 
-35. Thank you for taking the time to answer our questions. If you would like a copy of the results, please give us your email address. We will only use this email address to communicate with you about this survey.
+35. Dziękujemy za poświęcenie czasu na udzielenie odpowiedzi na nasze pytania. Jeśli chcesz otrzymać kopię wyników, podaj nam swój adres e-mail. Będziemy używać tego adresu e-mail tylko do komunikowania się z Tobą w sprawie tej ankiety.
 
-36. Finally, if you are interested in participating in an in-depth interview, please provide us with your name and enterprise or organization affiliation.
+36. Na koniec, jeśli jesteś zainteresowany udziałem w pogłębionej rozmowie, podaj nam swoje imię i nazwisko oraz nazwę firmy lub organizacji.
 
-* Name
+* Imię i nazwisko
 
-* Enterprise or Organization
+* Przedsiębiorstwo lub organizacja
 
 
 _____________________________
