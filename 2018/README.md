@@ -1,51 +1,51 @@
-# 2018 Open Source Program Survey Results
-The raw data from the survey can be found [here](https://github.com/todogroup/survey/blob/master/2018/results.csv).
+# 2018 Open Source Program Survey - Wyniki
+Nieprzetworzone (surowe) dane z ankiety można znaleźć [tutaj](https://github.com/todogroup/survey/blob/master/2018/results.csv).
 
-The 2018 Open Source Program Management Survey revealed that more than half (53%) of the companies surveyed say their organization has an open source software program or has plans to establish one within the next year.
+Badanie 'Open Source Program Management Survey 2018' ujawniło, że ponad połowa (53%) ankietowanych firm twierdzi, że ich organizacja ma oprogramowanie typu open source lub planuje utworzenie takiego oprogramowania w ciągu następnego roku.
 
 ![2018 Open Source Program Management Survey Summary](chart-large-companies.png)
 
-### Key findings include:
-* Open source use has become commonplace among tech and non-tech companies alike with 72% of companies frequently using open source for non-commercial or internal reasons and 55% using open source for commercial products. 
-* Open source programs are very critical or extremely critical to the success of engineering and product teams according to 59% of respondents. 
-* The top three benefits of managing an open source program are awareness of open source usage/dependencies, increased developer agility/speed, and better license compliance.
-* Large companies are about twice as likely to run an open source program than smaller companies (63 percent vs. 37 percent).
-* Open source programs tend to start informally as a working group or a few key open source developers and then evolve into formal programs over time, typically within a company’s software engineering or development department (about 41 percent of programs).
-* The benefits of an open source program are widely known, with 70% of those without a program believing it would have a positive impact in their company, despite any barriers to creating it.
+### Kluczowe ustalenia obejmują:
+* Korzystanie z otwartego oprogramowania stało się powszechne wśród firm technologicznych i nietechnicznych - 72% firm często korzysta z otwartego oprogramowania z przyczyn niekomercyjnych lub wewnętrznych, a 55% korzysta z otwartego oprogramowania dla produktów komercyjnych.
+* Według 59% respondentów programy typu open source są bardzo istotne lub niezwykle istotne dla sukcesu zespołów inżynieryjnych i produktowych.
+* Trzy najważniejsze zalety zarządzania programem typu open source to świadomość wykorzystania/zależności open source, większa zwinność/szybkość programisty i lepsza zgodność licencji.
+* Duże firmy mają około dwa razy większe szanse na uruchomienie programu typu open source niż mniejsze firmy (63 procent w porównaniu do 37 procent).
+* Programy typu open source zwykle zaczynają się nieformalnie jako grupa robocza lub kilku kluczowych programistów typu open source, a następnie z czasem ewoluują w formalne programy, zazwyczaj w dziale inżynierii lub rozwoju oprogramowania w firmie (około 41 procent programów).
+* Korzyści z programu open source są powszechnie znane, a 70% osób bez programu uważa, że miałoby to pozytywny wpływ na ich firmę, pomimo jakichkolwiek barier w jego tworzeniu.
 
 
-## Charts
+## Wykresy
 
-### Open Source Programs Summary
+### Open Source Programs - Podsumowanie
 ![2018 Open Source Program Management Survey Summary](chart-large-companies.png)
 
-### Benefits of Open Source Programs
+### Korzyści z programów Open Source
 ![Benefits of Open Source Programs](chart-benefits-of-open-source-programs.png)
 
-### Open Source Program Metrics of Success
+### Wskaźniki sukcesu programu Open Source
 ![Open Source Program Metrics of Success](chart-metrics-of-success.png)
 
-### Frequency of Companies Open Source Activities
+### Częstotliwość aktywności firm w Open Source
 ![Frequency of Companies Open Source Activities](chart-frequency.png)
 
-### Survey Demographics
+### Dane demograficzne
 ![Survey Demographics](chart-demographics.png)
 
-### Consensus About Role of Open Source Programs
+### Konsensus w sprawie roli programów Open Source
 ![Consensus About Role of Open Source Programs](chart-consensus-role-of-open-source-programs.png)
 
-### Challenges of Establishing an Open Source Program
+### Wyzwania związane z ustanowieniem programu Open Source
 ![Challenges of Establishing an Open Source Program](chart-challenges-in-establishing-programs.png)
 
-### Companies with an Open Source Program More Likely to Contribute
+### Firmy z programem Open Source chętniej wnoszą swój wkład
 ![Companies with an Open Source Program More Likely to Contribute](chart-companies-with-os-programs-more-likely-to-contribute.png)
 
-### Reasons for not Creating an Open Source Program
+### Powody, dla których nie utworzono programu typu open source
 ![Reasons for not Creating an Open Source Program](chart-reasons-for-no-open-source-program.png)
 
-## License
+## Licencja
 
-The survey results are licensed under [CC-BY-SA v4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+Wyniki ankiety są licencjonowane na podstawie [CC-BY-SA v4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 _____________________________
 
