@@ -570,3 +570,7 @@
 
 * Enterprise or Organization
 
+
+_____________________________
+
+Od @[todogroup](https://github.com/todogroup) tłumaczenie od @[mbiesiad](https://github.com/mbiesiad)
