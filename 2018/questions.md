@@ -1,18 +1,18 @@
-1. Where is your company or organization on its open source journey? (Check all that apply) Consuming open source code in products or services
+1. Gdzie znajduje się Twoja firma lub organizacja w jej podróży typu open source? (Zaznacz wszystkie, które mają zastosowanie). Zużycie kodu open source w produktach lub usługach
 
-* Contributing to upstream open source projects
+* Udział w projektach typu open source upstream
 
-* Influencing open source projects via leadership or maintainer roles
+* Wpływanie na projekty open source poprzez role przywódcze lub opiekuna
 
-* Initiating or releasing open source projects
+* Inicjowanie lub wydawanie projektów typu open source
 
-* Not involved in open source
+* Nie bierze udziału w open source
 
-* Don’t know
+* Nie wiem
 
-2. How many people work for your company or organization?
+2. Ile osób pracuje dla Twojej firmy lub organizacji?
 
-* Self-employed or not working
+* Samozatrudniony lub niepracujący
 
 * 2-50
 
@@ -24,125 +24,125 @@
 
 * 10,000+
 
-* Don't know
+* Nie wiem
 
-3. How often does your company do the following activities?
+3. Jak często Twoja firma wykonuje następujące czynności?
 
-* Never Rarely Sometimes Frequently Don't know
+* Nigdy, Rzadko, Czasami, Często, Nie wiem
 
-* Contribute code upstream
+* Współudział w code upstream
 
-* Use open source code for noncommercial or internal reasons
+* Używa kodu open source z przyczyn niekomercyjnych lub wewnętrznych
 
-* Use open source code in commercial products
+* Używa kodu open source w produktach komercyjnych
 
-* Recruit and hire developers to work on open source projects
+* Rekrutuje i zatrudnia programistów do pracy przy projektach open source
 
-* Train developers to contribute to open source projects
+* Szkolenia programistów do udziału w projektach open source
 
-* Create its own open source projects
+* Tworzy własne projekty open source
 
-* Attend and speak at open source events or conferences
+* Bierze udział w wydarzeniach lub konferencjach typu open source i udziela się 
 
-4. Does your company have a formal policy governing use and contribution to open source projects in the following areas?
+4. Czy Twoja firma ma formalną politykę regulującą wykorzystanie i wkład w projekty open source w następujących obszarach?
 
-5. Does your company have an open source program (either formal or informal) or management initiative? *
+5. Czy Twoja firma ma program typu open source (formalny lub nieformalny) lub inicjatywę zarządzania? *
 
-* Yes
+* Tak
 
-* No, but planning one
+* Nie, ale planuje
 
-* No
+* Nie
 
-* Yes No Don't know
+* Tak Nie Nie wiem
 
-* Use of open source code in products (dependencies)
+* Wykorzystanie kodu open source w produktach (zależności)
 
-* Releasing open source code or projects
+* Wydawanie kodu lub projektów typu open source
 
-* List of acceptable licenses
+* Lista dopuszczalnych licencji
 
-* Contributing upstream to open source projects
+* Wkład upstream do projektów typu open source
 
-* Sponsoring open source projects, events or foundations
+* Sponsoring projektów, wydarzeń lub fundacji typu open source
 
-6. What are the primary responsibilities of the open source program? (Check all that apply)
+6. Jakie są główne obowiązki programu open source? (Zaznacz wszystkie, które dotyczą)
 
-* Owning and overseeing the execution of open source strategy
+* Posiadanie i nadzorowanie realizacji strategii open source
 
-* Clearly communicating the open source strategy within and outside the company
+* Jasne komunikowanie strategii open source w firmie i poza nią
 
-* Facilitating the effective use of open source in commercial products and services
+* Ułatwienie skutecznego wykorzystania otwartego oprogramowania w produktach i usługach komercyjnych
 
-* Ensuring high-quality and frequent releases of code to open source communities
+* Zapewnienie wysokiej jakości i częstych wydań kodu dla społeczności open source
 
-* Engaging with developer communities so the company contributes back to other projects effectively
+* Współdziałanie ze społecznościami programistów, dzięki czemu firma skutecznie pomaga innym projektom
 
-* Fostering an open source culture within an organization
+* Wspieranie kultury open source w organizacji
 
-* Maintaining open source license compliance reviews and oversight
+* Utrzymywanie przeglądów i nadzór zgodności licencji open source
 
-* Launching new open source projects
+* Uruchamianie nowych projektów open source
 
-* Selecting and/or setting up infrastructure and tooling for open source use, contribution and creation
+* Wybór i/lub konfiguracja infrastruktury i narzędzi do użytku, wkładu i tworzenia oprogramowania typu open source
 
-* Developing and delivering open source training, resources and documentation
+* Opracowywanie i przeprowadzanie szkoleń, zasobów i dokumentacji typu open source
 
-* Other (please explain)
+* Inne (proszę wyjaśnić)
 
-7. How is the program or initiative structured?
+7. Jaka jest struktura programu lub inicjatywy?
 
-* Formal: dedicated person-hours, reporting structure and/or job titles
+* Formalne: dedykowane osobogodziny, struktura raportowania i/lub stanowiska pracy
 
-* Informal: working groups, mailing lists and/or channels (e.g., Slack) managed by job roles not formally defined as "open source"
+* Nieformalne: grupy robocze, listy mailingowe i/lub kanały (np. Slack) zarządzane przez role zadań nieokreślone formalnie jako "open source"
 
-8. Where is the open source program or initiative located within the organization? If the effort is informal, answer based on or who the primary organizers report to.
+8. Gdzie w organizacji znajduje się program lub inicjatywa open source? Jeśli wysiłek jest nieformalny, odpowiedz na podstawie do kogo zgłaszają się główni organizatorzy.
 
-* Legal
+* Dział prawny
 
-* Software Engineering and Development
+* Inżynieria i rozwój oprogramowania
 
 * IT
 
-* Office of the CTO
+* Biuro CTO
 
-* Developer Relations, Marketing or Communications
+* Developer Relations, marketing lub komunikacja
 
-* Don't know
+* Nie wiem
 
-* Other (please specify)
+* Inne (proszę określić)
 
-9. What is your role in the open source program?
+9. Jaka jest twoja rola w programie open source?
 
-* Executive leadership or oversight (program manager reports to me)
+* Kierownictwo lub nadzór wykonawczy (kierownik programu zgłasza się do mnie)
 
-* Program manager
+* Kierownik programu
 
-* Legal compliance
+* Zgodność z prawem
 
-* Engineering compliance
+* Zgodność z wymogami inżynierskimi
 
-* Developer relations, advocacy, and evangelists
+* Relacje programistów, rzecznictwo i ewangeliści
 
-* Open source developer or engineer (reporting to the open source office)
+* Deweloper lub inżynier Open Source (raportowanie do biura open source)
 
-* Committee member
+* Członek Komisji
 
-* No formal role
+* Brak formalnej roli
 
-* Other (please specify)
+* Inne (proszę określić)
 
-10. How long ago was the program established?
+10. Jak dawno temu powstał program?
 
-* 0-2 years
+* 0-2 rok/lata
 
-* 3-5 years
+* 3-5 lat
 
-* 5-10 years
+* 5-10 lat
 
-* > 10 years
+* > 10 lat
 
-* Don't know
+* Nie wiem
 
 11. What are the areas where your company has most benefited from the open source program? (Check all that apply)
 
