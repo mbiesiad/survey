@@ -1,47 +1,47 @@
-# 2019 Open Source Program Survey Results
+# 2019 Open Source Program Survey - Wyniki
 
-The raw data from the survey is located here [results.csv](results.csv)
+Nieprzetworzone (surowe) dane z ankiety znajdują się tutaj [results.csv](results.csv)
 
-Over 2,700 people participated in the survey. Company size was broadly represented, with 21% of respondents working at large companies with more than 10,000 employees, and 39% from small and mid-size companies with 250 or fewer employees. Developers and software engineers represented 43% of respondents, with at least another 36% holding an IT-related role.  
+W badaniu wzięło udział ponad 2700 osób. Wielkość firmy była szeroko reprezentowana - 21% respondentów pracowało w dużych firmach zatrudniających powyżej 10 000 pracowników, a 39% w małych i średnich firmach zatrudniających 250 lub mniej pracowników. Programiści i inżynierowie oprogramowania reprezentowali 43% respondentów, przy czym co najmniej kolejne 36% pełniło rolę związaną z IT.
 
-More than three times as many people participated in the 2019 survey as compared to last year, but many of the findings remain consistent year-over-year. This indicates that the 2018 results were not skewed by a significant over-representation of early adopters involved with The Linux Foundation’s TODO Group. In other words, the survey represented a wide cross-section of enterprises and not just those that were already part of what might be considered a tight-knit group of like-minded open source fans. Overall, the data’s consistency provides confidence that the findings are not the result of self-selection bias.
+Ponad trzy razy więcej osób wzięło udział w ankiecie w 2019 r. w porównaniu do ubiegłego roku, ale wiele wyników pozostaje spójnych z roku na rok. Wskazuje to, że wyniki za 2018 r. nie zostały zniekształcone przez znaczną nadmierną reprezentację wczesnych użytkowników zaangażowanych w The Linux Foundation’s TODO Group. Innymi słowy, badanie reprezentowało szeroki przekrój przedsiębiorstw, a nie tylko te, które już były częścią czegoś, co można uznać za zwartą grupę podobnie myślących fanów open source. Ogólnie rzecz biorąc, spójność danych daje pewność, że wyniki nie są wynikiem uprzedzeń wynikających z samoselekcji.
 
-## Key Findings
+## Kluczowe wnioski
 
-* **Adoption of open source programs and initiatives is widespread and goes beyond early adopters.** More than half (52%) of the 2,700 study participants either have a formal or informal program or their company is planning to create one, which is one percentage point less than last year. Despite tripling the study’s sample size, many of the study’s findings as well its demographic profile remained remarkably similar compared to last year.  We see this as a validation of last year’s report.
-* **Expectations for open source program management have begun to crystalize.** Fostering an open source culture continues to be the top responsibility of these programs. However, the results show culture is less likely to be seen as a benefit when defined as interactions between departments as opposed to general digital transformation and agility. Compared to last year, facilitating the effective use of open source in commercial products and services rose from the fifth to the second most cited responsibility. 
-* **Hiring of open source developers is a more prominent concern.** Mentions of developer recruitment and retention as a primary benefit of open source programs rose from 31% in 2018 to 36% in the latest study. Forty-two percent of companies planning a program say they are at least sometimes hiring developers to work on an open source project, up from 33% in 2018.
-* **Companies highly value their open source foundation memberships**. Of the 23% that are a member or sponsor of a foundation, 57% say their organization is getting high value from the investment; in contrast, only 7% are seeing low value.
-* **Code quality associated with open source software practices.** Forty-one percent of participants with OSS management initiatives say these programs are responsible for ensuring high quality and frequent releases to open source communities. In open-ended questions, many respondents discussed how code review processes instituted by OSS programs had a positive impact on code quality.
-* **There is no consensus about the impact of open source citizenship on buying decisions.** Twenty-nine percent say their perception of a company’s open source participation is very influential on their organization’s buying decisions but 32% say it is slightly or not at all influential.
+* **Przyjęcie programów i inicjatyw typu open source jest szeroko rozpowszechnione i wykracza poza wczesnych użytkowników.** Ponad połowa (52%) z 2700 uczestników badania ma formalny lub nieformalny program lub ich firma planuje go stworzyć, co stanowi jeden punkt procentowy mniej niż w zeszłym roku. Pomimo trzykrotnego powiększenia próby badania, wiele wyników badania oraz jego profil demograficzny pozostały niezwykle podobne w porównaniu z ubiegłym rokiem. Widzimy to jako potwierdzenie zeszłorocznego raportu.
+* **Oczekiwania dotyczące zarządzania programami typu open source zaczęły się krystalizować.** Wspieranie kultury oprogramowania typu open source jest nadal głównym obowiązkiem tych programów. Jednak wyniki pokazują, że kultura jest mniej prawdopodobna jako korzyść, gdy zostanie zdefiniowana jako interakcja między działami w przeciwieństwie do ogólnej transformacji cyfrowej i sprawności. W porównaniu z ubiegłym rokiem ułatwienie skutecznego wykorzystania otwartego oprogramowania w komercyjnych produktach i usługach wzrosło z piątej do drugiej najczęściej cytowanej odpowiedzialności.
+* **Zatrudnianie programistów open source jest bardziej znaczącym problemem.** Wzmianki o rekrutacji i zatrzymywaniu programistów jako podstawowej korzyści programów open source wzrosły z 31% w 2018 roku do 36% w najnowszym badaniu. 42% firm planujących program twierdzi, że przynajmniej czasami zatrudnia programistów do pracy nad projektem open source, w porównaniu z 33% w 2018 r.
+* **Firmy bardzo cenią członkostwo w fundacjach open source**. Spośród 23% członków lub sponsorów fundacji 57% twierdzi, że ich organizacja czerpie wysoką wartość z inwestycji; natomiast tylko 7% widzi niską wartość.
+* **Jakość kodu związana z praktykami oprogramowania typu open source.** 41% uczestników inicjatyw zarządzania OSS twierdzi, że programy te są odpowiedzialne za zapewnienie wysokiej jakości i częstych wydań dla społeczności open source. W pytaniach otwartych wielu respondentów dyskutowało, w jaki sposób procesy przeglądu kodu inicjowane przez programy OSS miały pozytywny wpływ na jakość kodu.
+* **Nie ma zgody co do wpływu obywatelstwa open source na decyzje zakupowe.** Dwadzieścia dziewięć procent twierdzi, że ich postrzeganie udziału firmy w otwartym oprogramowaniu ma bardzo duży wpływ na decyzje zakupowe ich organizacji, ale 32% twierdzi, że jest nieznacznie lub nie w ogóle wpływowy.
 
-## Charts
+## Wykresy
 
-### Open Source Remains Commonplace in the Enterprise
+### Open Source pozostaje powszechne w przedsiębiorstwie
 
 <img src="chart1.svg" width="800">
 
-### Open Source Programs More Likely to Exist at Companies That Recruit Open Source Developers
+### Programy Open Source prędzej są w firmach, które rekrutują programistów Open Source
 
 <img src="chart2.svg" width="800">
 
-### Tech and Telecom Firms Most Likely to Have an Open Source Program
+### Firmy techniczne i telekomunikacyjne najchętniej mają program typu open source
 
 <img src="chart3.svg" width="800">
 
-### Benefits of Open Source Programs
+### Korzyści z programów Open Source
 
 <img src="chart4.svg" width="800">
 
-### Responsibilities of Open Source Programs
+### Obowiązki programów Open Source
 
 <img src="chart5.svg" width="800">
 
-### Open Source Programs Are Beneficial
+### Programy Open Source dają korzyści
 
 <img src="chart6.svg" width="800">
 
-### Recruiting Is Increasingly a Challenge Facing Open Source Programs
+### Rekrutacja stanowi coraz większe wyzwanie dla programów typu open source
 
 <img src="chart7.svg" width="800">
 
@@ -53,23 +53,23 @@ More than three times as many people participated in the 2019 survey as compared
 
 <img src="chart9.svg" width="800">
 
-### Speed, Flexibility and Lower Costs Are Top Open Source Benefits
+### Szybkość, elastyczność i niższe koszty to najważniejsze zalety Open Source
 
 <img src="chart10.svg" width="800">
 
-### Companies High Value their Open Source Foundation Memberships
+### Firmy cenią sobie członkostwo Fundacji Open Source
 
 <img src="chart11.svg" width="800">
 
-### Hiring Open Source Developers is Top of Mind for Open Source Programs
+### Zatrudnianie programistów Open Source jest najważniejsze w programach Open Source
 
 <img src="chart12.svg" width="800">
 
-### No Consensus on Impact of Open Source Citizenship on Buying Decisions
+### Brak konsensusu w sprawie wpływu uczestniczenia w Open Source na decyzje zakupowe
 
 <img src="chart13.svg" width="800">
 
-### 72% Think Google is an Above Average Open Source Citizen
+### 72% Uważa, że Google jest ponadprzeciętnym członkiem Open Source
 
 <img src="chart14.svg" width="800">
 
@@ -81,22 +81,22 @@ More than three times as many people participated in the 2019 survey as compared
 
 <img src="chart16.svg" width="800">
 
-### Open Source Citizenship is Very Influential in Buying Decisions Among Companies Deeply Involved with the Community
+### Obywatelstwo Open Source ma bardzo duży wpływ na decyzje zakupowe wśród firm głęboko zaangażowanych w działalność społeczności
 
 <img src="chart17.svg" width="800">
 
-### Deployment Frequency Higher for Organization That Regularly Use and Contribute to OSS ###
+### Wyższa częstotliwość wdrażania dla organizacji, które regularnie używają i przyczyniają się do OSS ###
 <img src="chart18.svg" width="800">
 
 ### 46% of Retail Firms Deploy Continuously. Less than 10% of Manufacturing, Insurance, Healthcare, and Utilities Deploy At Least Daily ###
 <img src="chart19.svg" width="800">
 
-### Financial, Utilities, Retail, Healthcare Use Open Source Code in Commercial Products, But Less Likely to Contribute Upstream ###
+### Finanse, usługi komunalne, handel detaliczny, opieka zdrowotna używają kodu Open Source w produktach komercyjnych, ale mniej prawdopodobne, że przyczynią się to do upstream ###
 
 <img src="chart20.svg" width="800">
-## License
+## Licencja
 
-The survey results are licensed under [CC-BY-SA v4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+Wyniki ankiety są licencjonowane na podstawie [CC-BY-SA v4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 _____________________________
 
