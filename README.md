@@ -1,6 +1,6 @@
-# Ankieta programów Open Source
+# Badanie dotyczące programów Open Source
 
-Grupa TODO z dumą przeprowadziła pierwszą w branży ankietę dotyczącą programów typu open source. Formalne programy open source szybko stają się najlepszą praktyką dla wszystkich organizacji. Grupa TODO zobowiązuje się do przeprowadzania tego badania corocznie, posuwając się naprzód i dzieląc się wynikami z szerszą społecznością
+Grupa TODO z dumą przeprowadziła pierwsze w branży badania dotyczące programów typu open source. Formalne programy open source szybko stają się najlepszą praktyką dla wszystkich organizacji. Grupa TODO zobowiązuje się do przeprowadzania tego badania corocznie, posuwając się naprzód i dzieląc się wynikami z szerszą społecznością
 
 * [2018 Wyniki](https://github.com/mbiesiad/survey/tree/master/2018)
 * [2019 Wyniki](https://github.com/mbiesiad/survey/tree/master/2019)
