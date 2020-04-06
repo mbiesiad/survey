@@ -97,3 +97,7 @@ More than three times as many people participated in the 2019 survey as compared
 ## License
 
 The survey results are licensed under [CC-BY-SA v4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+_____________________________
+
+Od @[todogroup](https://github.com/todogroup) tłumaczenie od @[mbiesiad](https://github.com/mbiesiad)
